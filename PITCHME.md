@@ -102,4 +102,8 @@ Let's take a look at the original Neatline
 ---
 # Some final thoughts & questions
 
+- Evaluating potential size of the app
+- Thinking about how to make an MVP quickly
+- When to refactor and when to build
+- Deciding on consistent architecture and patterns
 
