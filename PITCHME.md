@@ -43,7 +43,7 @@ Let's take a look at the original Neatline
 - Virtual DOM
 - State Management 
 - JSX
-- Lots of great documentation and community support (https://reactjs.org/docs/design-principles.html)[https://reactjs.org/docs/design-principles.html]
+- Lots of great documentation and community support [https://reactjs.org/docs/design-principles.html](https://reactjs.org/docs/design-principles.html)
 ---
 # React in Neatline
 
@@ -100,7 +100,7 @@ Let's take a look at the original Neatline
 - Smaller community, though growing
 
 ---
-# Some final thoughts & questions
+### Some final thoughts & questions
 
 - Evaluating potential size of the app
 - Thinking about how to make an MVP quickly
